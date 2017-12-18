@@ -8,7 +8,7 @@
      for j = i2, i2+i, i2+2i, i2+3i, ..., not exceeding n:
        A[j] := false.
  
- Output: all i such that A[i] is true.
+ Output: all i such that A[i] is true!
  
  
 "Test a number to determine whether or not it is prime. 
