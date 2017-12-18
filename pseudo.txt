@@ -9,3 +9,9 @@
        A[j] := false.
  
  Output: all i such that A[i] is true.
+ 
+ 
+"Test a number to determine whether or not it is prime. 
+THEN loop from 2 all the way up to input
+If the remainder of our value with the current loop value is zero then we know it is not prime so skip i.
+Otherwise, add to running total and then return this value in addition to original input"
